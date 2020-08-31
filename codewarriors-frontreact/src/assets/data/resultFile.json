@@ -1,0 +1,23 @@
+[
+  {
+    "systolicPressure": 80,
+    "diastolicPressure": 50,
+    "pulsation": 74
+  },
+  {
+    "systolicPressure": 100,
+    "diastolicPressure": 70,
+    "pulsation": 86
+  },
+  {
+    "systolicPressure": 130,
+    "diastolicPressure": 90,
+    "pulsation": 80
+  },
+
+  {
+    "systolicPressure": 150,
+    "diastolicPressure": 80,
+    "pulsation": 75
+  }
+]
